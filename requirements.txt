@@ -1,0 +1,2 @@
+requests
+pystyle==1.5
